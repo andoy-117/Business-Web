@@ -1,0 +1,234 @@
+.bodyintroduction
+{
+    background-image: url("WafflesByMariaSergashova.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+#headerintro
+{
+    background-color: #FFF3B0;
+    padding: 1rem;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    text-align: center;
+    color: #003152;
+    font-size: 75px;
+    font-style: oblique;
+    border-style: groove;
+    border-width: 6px;
+    border-color: #E09F3E;
+    text-shadow: 3px 3px 4px #F5F5DC;
+    text-transform: uppercase;
+}
+.navbar ul
+{
+    list-style-type: none;
+    background-color: #811a1c;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.navbar a
+{
+    color: #FFFDD0;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    overflow: hidden;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 18px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #E09F3E;
+    background-color: #9E2A2B;
+}
+.navbar li
+{
+    float: center;
+}
+footer
+{
+    background-color: #9E2A2B;
+    padding: 1rem;
+    font-family: Georgia serif;
+    text-align: center;
+    color: #FFFDD0;
+    font-size: 75px;
+    font-style: oblique;
+    border-style: groove;
+    border-width: 6px;
+    border-color: #E09F3E;
+    text-shadow: 3px 3px 4px #FFFDD0;
+}
+.section1
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    gap: 0.05px;
+}
+#introduction
+{
+   border: 5px;
+   border-style: solid;
+   border-radius: 10px;
+   border-width: 10px;
+   border-color: #E09F3E;
+   width: 550px;
+   height: 500px;
+   background-color: #FFF3B0;
+   padding: 20px;
+   margin: 50px;
+   margin-right: auto;
+   font-family: Georgia serif;
+   color: #003152;
+   font-size: 28px;
+   text-align: center;
+}
+#aboutourpastries
+{
+   border: 5px;
+   border-style: solid;
+   border-radius: 10px;
+   border-width: 10px;
+   border-color: #E09F3E;
+   width: 550px;
+   height: 500px;
+   background-color: #FFF3B0;
+   padding: 20px;
+   margin: 50px;
+   font-family: Georgia serif;
+   color: #003152;
+   font-size: 23px;
+   text-align: center;
+}
+#aboutourpastries img{
+    width: 280px;
+    height: 28
+    0px;
+    margin: 10px;
+    margin-right: 20px;
+    float:inline-start;
+}
+.bodyproducts
+{
+    background-image: url("Fontaine.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+}
+#headerproducts
+{
+    background-color: #008081;
+    padding: 1rem;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    text-align: center;
+    color: #FFF3D0;
+    font-size: 75px;
+    font-style: oblique;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #003152;
+    text-shadow: 3px 3px 1px #F5F5DC;
+    text-transform: uppercase;
+}
+.section2
+{
+    min-height: 3000px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.05px;
+}
+#products
+{
+    height: fit-content;
+    width: fit-content;
+    border: solid;
+    border-color: #003152;
+    border-radius: 70px;
+    border-width: 45px;
+    background-color: #008081;
+    color: #FFF3B0;
+    padding: 60px;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 20px;
+     text-align: center;
+    margin: 50px;
+}
+#description
+{
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 20px;
+    margin: 3rem;
+}
+.aboutnavia
+{
+    background-image: url("YellowFlowers.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.section3
+{
+    min-height: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    gap: 0.05px;
+}
+#abouther
+{
+   border: 5px;
+   border-style: solid;
+   border-radius: 10px;
+   border-width: 10px;
+   border-color: #E09F3E;
+   width: 1750px;
+   height: fit-content;
+   background-color: #FFF3B0;
+   padding: 10px;
+   font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+   color: #003152;
+   font-size: 28px;
+   text-align: center;
+}
+#abouther img
+{
+    width: 692px;
+    height: 1154px;
+    float:inline-start;
+}
+#abouther h1
+{
+     margin: 50px;
+     margin-left: 180px;
+     margin-right: 90px;
+     text-align: center;
+     text-transform: uppercase;
+     text-shadow: 3px 3px 2px #83898d;
+     font-size: 90px;
+}
+#abouther p
+{
+     margin: 30px;
+     margin-left: 180px;
+     margin-right: 90px;
+     text-align: center;
+     font-size: 25px;
+}
+
+ 
